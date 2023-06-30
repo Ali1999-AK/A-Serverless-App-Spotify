@@ -8,8 +8,6 @@ The goal of this project is to create a reliable and efficient data pipeline tha
 
 
 Section 1:
-Web Application URL:
-The deployed web application can be accessed at http://100.24.36.101:3000/
 
 GitHub Repository:
 The source code for this project can be found on GitHub: https://github.iu.edu/vsaketh/team_mission_possible
